@@ -1,0 +1,16 @@
+#include <stdio.h> 
+int main()
+
+int age,
+
+Printf ("Enter your age");
+
+Scanf ("%d", & age),
+
+if ags=18)
+
+Printf ("you are eligible for voting");
+
+return 0;
+
+}
